@@ -1,1 +1,5 @@
-test('', () => {});
+describe('test', () => {
+  it('test', () => {
+    fail();
+  });
+});
